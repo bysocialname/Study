@@ -1,4 +1,4 @@
-# Study
+# Study - Project
 
 ## Presentation de Study
 
@@ -11,7 +11,7 @@ C
 JavaScript
 ```
 
-## Prsentation de l'autheur
+## Presentation de l'autheur
 
 Je me nomme Mouhamed CAMARA, etudiant en Licence 2 en Developpememt et Administration d'Application a l'Universite Alioune Diop de Bambey.
 
