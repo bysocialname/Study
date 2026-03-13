@@ -15,7 +15,7 @@ JavaScript
 
 Je me nomme Mouhamed CAMARA, etudiant en Licence 2 en Developpememt et Administration d'Application a l'Universite Alioune Diop de Bambey.
 
-En Licence 1, nous avons appris les language comme :
+En Licence 1, nous avons appris les languages comme :
 
 ```bash
 Pascal
