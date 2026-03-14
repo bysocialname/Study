@@ -33,4 +33,4 @@ A mes debut, j'ai pu apprendre les bases avec Meta Quote Language 5 pour la conc
 
 ```bash
 MQL5
-'''
+```
