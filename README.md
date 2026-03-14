@@ -1,4 +1,4 @@
-# Study - Project
+# Study
 
 ## Presentation de Study
 
@@ -26,3 +26,11 @@ CSS
 ## Objectif
 
 Le but de Study est de vous partager ces experiences tout au long de sa carriere afin de vous instruire et/ou de vous aider a atteindre son niveau.
+
+## Centre d'interet
+
+A mes debut, j'ai pu apprendre les bases avec Meta Quote Language 5 pour la conception d'Expert Advisor.
+
+```bash
+MQL5
+'''
