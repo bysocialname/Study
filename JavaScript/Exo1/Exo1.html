@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8"/>
+        <link rel="stylesheet" type="text/css" href="Exo1.css"/>
+        <title>
+            Page Personnalise
+        </title>
+    </head>
+    <body>
+        <div id="sms">
+
+        </div>
+        <script>
+            let nom = prompt("Quel est votre nom !");
+            alert(`Bienvenue ${nom}`);
+
+            let date = new Date();
+            console.log(`Heure actuelle : ${date.getHours()} : ${date.getMinutes()}`);
+
+            let div = document.getElementById("sms");
+            div.innerHTML = `<h1> Bienvenue ${nom} </h1>`;
+
+        </script>
+    </body>
+</html>
