@@ -11,7 +11,7 @@ C
 JavaScript
 ```
 
-## Presentation de l'autheur
+## Presentation de l'auteur
 
 Je me nomme Mouhamed CAMARA, etudiant en Licence 2 en Developpememt et Administration d'Application a l'Universite Alioune Diop de Bambey.
 
