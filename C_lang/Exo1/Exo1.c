@@ -22,4 +22,5 @@ void main(){
     printf("Avant : a = %d, b = %d, c = %d", a, b, c);
     printf("\n");
     printf("Apres : a = %d, b = %d, c = %d", a_, b_, c_);
+    
 }
