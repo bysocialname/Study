@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(){
+void main(){
     int s;
 
     printf("Saisir la valeur de s (le seuil) \n");

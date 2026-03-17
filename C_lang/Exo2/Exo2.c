@@ -2,7 +2,7 @@
 
 int a, b, N;
 
-int main(){
+void main(){
 
     printf("Saisir la valeur de a \n");
     scanf("%d", &a);
