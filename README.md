@@ -2,7 +2,7 @@
 
 ## Presentation de Study
 
-Study est repository (Github) dans laquelle des enonces d'exercices, corrections d'exercices et des projet seront mise en ligne pour des tiers.
+Study est une repository (Github) dans laquelle des énoncés d'exercices, corrections d'exercices et des projets seront mise en ligne pour des tiers.
 
 Study Language :
 
@@ -13,9 +13,9 @@ JavaScript
 
 ## Presentation de l'auteur
 
-Je me nomme Mouhamed CAMARA, etudiant en Licence 2 en Developpememt et Administration d'Application a l'Universite Alioune Diop de Bambey.
+Je me nomme Mouhamed CAMARA, etudiant Licence 2 en Développememt et Administration d'Application à l'Université Alioune Diop de Bambey.
 
-En Licence 1, nous avons appris les languages comme :
+En Licence 1, nous avons appris les languages de programmation comme :
 
 ```bash
 Pascal
@@ -25,11 +25,11 @@ CSS
 
 ## Objectif
 
-Le but de Study est de vous partager ces experiences tout au long de sa carriere afin de vous instruire et/ou de vous aider a atteindre son niveau.
+Le but de Study est de vous partager ces experiences tout au long de sa carriere afin de vous instruire et/ou de vous aider à atteindre son niveau.
 
 ## Centre d'interet
 
-A mes debut, j'ai pu apprendre les bases avec Meta Quote Language 5 pour la conception d'Expert Advisor.
+À mes début, j'ai pu apprendre les bases avec Meta Quote Language 5 pour la conception d'Expert Advisor.
 
 ```bash
 MQL5
