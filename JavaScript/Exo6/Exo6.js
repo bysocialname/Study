@@ -10,7 +10,7 @@ let pair = [];
 
 function trouverMax(){
 
-    max = tableau[1];
+    max = tableau[0];
 
     for(let i = 0; i < tableau.length; i++){
 
@@ -23,7 +23,7 @@ function trouverMax(){
 
 function trouverMin(){
 
-    min = tableau[1];
+    min = tableau[0];
 
     for(let i = 0; i < tableau.length; i++){
         if(min > tableau[i]){
