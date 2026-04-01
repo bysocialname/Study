@@ -1,36 +1,47 @@
-# Study
+# 📘 Study
 
-## Presentation de Study
+## 📝 Presentation de Study
 
-Study est une repository (Github) dans laquelle des énoncés d'exercices, corrections d'exercices et des projets seront mise en ligne pour des tiers.
-
-Study Language :
-
+**Study** est un dépôt GitHub dédié aux exercices pratiques pour l'apprentissage et le perfectionnement en programmation.  
+Il regroupe des énoncés et leurs corrections dans différents langages :
 ```bash
-C
-JavaScript
+🔵 **C** ⚙️
+🟨 **JavaScript** ✨
+📈 **MQL5** 💹
 ```
 
-## Presentation de l'auteur
+## 🎯 Objectif de Study
 
-Je me nomme Mouhamed CAMARA, etudiant Licence 2 en Développememt et Administration d'Application à l'Université Alioune Diop de Bambey.
+Le but de **Study** est de vous :
+- **Fournir** des exercices clairs et progressifs.  
+- **Proposer** des corrections détaillées pour faciliter l’auto-apprentissage.  
+- **Servir de support** pour les étudiants et passionnés de programmation.
 
-En Licence 1, nous avons appris les languages de programmation comme :
+## 📂 Organisation du dépôt
 
-```bash
-Pascal
-HTML
-CSS
-```
+- `JavaScript/` : exercices et solutions en JavaScript
+- `C/` : exercices et solutions en langage C
+- `MQL5/` : projets et scripts personnels en MQL5
+- `README.md` : présentation générale du projet
 
-## Objectif
+## 🚀 Comment utiliser Study
 
-Le but de Study est de vous partager ces experiences tout au long de sa carriere afin de vous instruire et/ou de vous aider à atteindre son niveau.
+1. Clonez le dépôt :
+   ```bash
+   git clone https://github.com/bysocialname/Study.git
+   ```
+2. Naviguez vers le dossier du langage souhaité :
+   ```bash
+   Par exemple :
+   cd Study/JavaScript
+   cd Study/C
+   ```
+3. Consultez l'énoncé puis comparez avec la correction proposée
 
-## Centre d'interet
+PS : Assurez-vous d'installer le logiciel Git sur votre machine.
 
-À mes début, j'ai pu apprendre les bases avec Meta Quote Language 5 pour la conception d'Expert Advisor.
+## 👨‍💻 Presentation de l'auteur
 
-```bash
-MQL5
-```
+Projet créé et maintenu par bysocialname  
+📧 Contact : bysocialname@gmail.com
+🌐 GitHub : https://github.com/bysocialname
