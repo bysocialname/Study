@@ -1,14 +1,14 @@
-# 📘 Study
+# Study
 
 ## 📝 Presentation de Study
 
 **Study** est un dépôt GitHub dédié aux exercices pratiques pour l'apprentissage et le perfectionnement en programmation.  
 Il regroupe des énoncés et leurs corrections dans différents langages :
-```bash
-🔵 **C** ⚙️
-🟨 **JavaScript** ✨
-📈 **MQL5** 💹
-```
+   ```bash
+   C
+   JavaScript
+   MQL5
+   ```
 
 ## 🎯 Objectif de Study
 
@@ -32,9 +32,7 @@ Le but de **Study** est de vous :
    ```
 2. Naviguez vers le dossier du langage souhaité :
    ```bash
-   Par exemple :
    cd Study/JavaScript
-   cd Study/C
    ```
 3. Consultez l'énoncé puis comparez avec la correction proposée
 
@@ -43,5 +41,5 @@ PS : Assurez-vous d'installer le logiciel Git sur votre machine.
 ## 👨‍💻 Presentation de l'auteur
 
 Projet créé et maintenu par bysocialname  
-📧 Contact : bysocialname@gmail.com
-🌐 GitHub : https://github.com/bysocialname
+- 📧 Contact : bysocialname@gmail.com
+- 🌐 GitHub : https://github.com/bysocialname
