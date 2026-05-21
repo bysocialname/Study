@@ -1,6 +1,6 @@
 ## Adressage reseau
 
-Créer une application où vhaque etudiant peut ajouter un ou plusieurs machines,
+Créer une application où chaque etudiant peut ajouter un ou plusieurs machines,
 les supprimer ou les lister.
 
 ### Algorithme
