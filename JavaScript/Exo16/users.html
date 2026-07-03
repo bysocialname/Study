@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+
+    </head>
+    <body>
+        <h1>
+            Listes des utilisateurs
+        </h1>
+        <ul id="list">
+
+        </ul>
+        <script>
+            let tab = [];
+
+            const list = document.getElementById("list");
+
+            const user = JSON.parse(localStorage.getItem("user"));
+
+            tab[tab.length] = user;
+
+            if(user){
+                const li = document.createElement("li");
+                for(let i = 0; i < tab.length; i++){
+                    li.textContent = "Login : " + tab[i].login + " Passsword : " + tab[i].mdp;
+                }
+                list.appendChild(li);
+            }
+        </script>
+    </body>
+</html>
