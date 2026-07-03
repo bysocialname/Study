@@ -2,14 +2,14 @@
 
 int main(){
 
-    int option;
+    char option;
 
     printf("Menu calculatrice simple \n");
     printf("Saisir l'option de votre choix \n");
-    printf("Addition (1) Soustraction (2) Multiplication (3) Division entier (4) Modulo (5) \n");
-    scanf("%d", &option);
+    printf("Addition - Soustraction - Multiplication - Division entier - Modulo \n");
+    scanf("%c", &option);
 
-    if(option == 1){
+    if(option == '+'){
 
         float a, b;
 
@@ -21,7 +21,7 @@ int main(){
 
         printf("Addition entre a et b = %.2f \n", a+b);
     }
-    else if(option == 2){
+    else if(option == '-'){
         float a, b;
 
         printf("Saisir la valeur de a \n");
@@ -32,7 +32,7 @@ int main(){
 
         printf("Soustraction entre a et b = %.2f \n", a-b);
     }
-    else if(option == 3){
+    else if(option == '*'){
         float a, b;
 
         printf("Saisir la valeur de a \n");
@@ -43,7 +43,7 @@ int main(){
 
         printf("Multiplication entre a et b = %.2f \n", a*b);
     }
-    else if(option == 4){
+    else if(option == '/'){
         int a, b;
 
         printf("Saisir la valeur de a \n");
@@ -54,7 +54,7 @@ int main(){
 
         printf("Division entre a et b = %d \n", a/b);
     }
-    else if(option == 5){
+    else if(option == '%'){
         int a, b;
 
         printf("Saisir la valeur de a \n");
