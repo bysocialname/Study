@@ -1,0 +1,3 @@
+# Projet Maison Intelligente dans Packet Tracer
+
+Dans cet exercice, vous découvrirez un exemple de maison intelligente. Selon l´application, il peut être préférable de traiter certaines données à proximité de la source. L´exemple de la maison intelligente tire parti de l´Edge Computing pour surveiller et agir sur le niveaux d´eau, sur la présence et sur la lumiére détectés au tour de la maison.
