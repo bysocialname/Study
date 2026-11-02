@@ -4,11 +4,16 @@
 
 **Study** est un dépôt GitHub dédié aux exercices pratiques pour l'apprentissage et le perfectionnement en programmation.  
 Il regroupe des énoncés et leurs corrections dans différents langages :
-   ```bash
-   C
-   JavaScript
-   MQL5
-   ```
+```bash
+C
+JavaScript
+Linux
+Reseau
+Database
+Docker
+AdminLinux
+Java
+```
 
 ## 🎯 Objectif de Study
 
@@ -20,8 +25,13 @@ Le but de **Study** est de vous :
 ## 📂 Organisation du dépôt
 
 - `JavaScript/` : exercices et solutions en JavaScript
+- `Java/` : exercices et solutions en Java
+- `Docker/` : commandes pour `docker` et `docker compose`
+- `AdminLinux/` : exercices et solutions sur l'administration Linux
+- `Database/` : exercices et solutions en Base de Donnees
 - `C/` : exercices et solutions en langage C
-- `MQL5/` : projets et scripts personnels en MQL5
+- `Reseau/` : exercices et solutions avec des fichiers `.pka` pour Cisko Packet Tracer
+- `Linux/` : exercices et solutions sur Linux Utilisateur
 - `README.md` : présentation générale du projet
 
 ## 🚀 Comment utiliser Study
